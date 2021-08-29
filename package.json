@@ -1,0 +1,22 @@
+{
+  "name": "code-the-dream-project",
+  "version": "1.0.0",
+  "description": "Pre-work Project- Ruby on rails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisG3020/Code-the-dream-project.git"
+  },
+  "author": "Christian Galmiche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisG3020/Code-the-dream-project/issues"
+  },
+  "homepage": "https://github.com/ChrisG3020/Code-the-dream-project#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

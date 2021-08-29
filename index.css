@@ -1,0 +1,12 @@
+.container-luke{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.luke-img{
+    width: 34%;
+    height: 50%;
+}
