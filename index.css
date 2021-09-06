@@ -1,9 +1,25 @@
 .container-luke{
-    width: 75%;
+    height: 100%;
+    width: 100%;
+    margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: auto;
+    
+}
+
+body{
+    background-image: url(bg.png);
+}
+
+#name{
+    color: yellow;
+}
+#gender{
+    color: yellow;
+}
+#eyes{
+    color: yellow;
 }
 
 .luke-img{
